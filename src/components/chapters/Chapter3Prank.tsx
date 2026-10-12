@@ -14,10 +14,10 @@ const SCAN_LINES = [
   'Loading global registry: 8,100,247,903 records',
   'Applying biometric filters...',
   'Cross-referencing with dimensional archives...',
-  'Querying Universe_A.BOYFRIEND_registry...',
+  'Querying Universe_A.BIRTHDAY_registry...',
   'Querying Parallel_Universe_B records...',
   'Scanning alternate timelines...',
-  'Searching for: SWASTIK, boyfriend entry...',
+  'Searching for: AYUSHMAN, birthday entry...',
 ];
 
 const GLITCH_FRAMES = [
@@ -163,7 +163,7 @@ export function Chapter3Prank({ onComplete, playPrankRevealSfx }: Props) {
                 <div className="w-2.5 h-2.5 rounded-full bg-green-500/70" />
               </div>
               <span className="font-mono text-xs text-foreground/50 flex-1 text-center tracking-wide">
-                Boyfriend Security System — Terminal v2.7.1
+                Birthday Security System — Terminal v2.7.1
               </span>
             </div>
 
@@ -251,7 +251,7 @@ export function Chapter3Prank({ onComplete, playPrankRevealSfx }: Props) {
                 CRITICAL ERROR — CODE 0xBD_404
               </p>
               <p className="font-mono text-destructive/80 text-xs leading-relaxed">
-                SWASTIK'S_DATA: NOT FOUND<br />
+                YOUR'S_DATA: NOT FOUND<br />
                 Searched: 8,100,247,903 records<br />
                 Searched: 47 alternate timelines<br />
                 Searched: 3 parallel universes<br />
@@ -260,12 +260,12 @@ export function Chapter3Prank({ onComplete, playPrankRevealSfx }: Props) {
             </div>
 
             <p className="text-foreground/60 text-sm mb-4 font-mono">
-              It appears... swastik was never born?😱
+              It appears... you was never born?😱
             </p>
 
             <div className="flex items-center justify-center gap-2 text-destructive/60 text-xs font-mono animate-pulse">
               <span className="w-1.5 h-1.5 rounded-full bg-destructive/60 animate-ping" />
-              INITIATING PURGE PROTOCOL...
+              INITIATING MEMORIES PURGE PROTOCOL...
             </div>
           </motion.div>
         )}
@@ -341,7 +341,7 @@ export function Chapter3Prank({ onComplete, playPrankRevealSfx }: Props) {
               style={{ fontSize: 'clamp(1.1rem, 4vw, 2rem)', fontWeight: 800 }}
             >
               <span>🎂</span>
-              <span>HAPPY BOYFRIEND'S DAY!! LOVE</span>
+              <span>HAPPY BIRTHDAY DAY!! BHAIYA</span>
               <span>🎉</span>
             </motion.div>
 
