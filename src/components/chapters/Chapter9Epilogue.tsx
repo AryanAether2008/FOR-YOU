@@ -47,15 +47,15 @@ const LETTER_PARAGRAPHS = [
 
    '',
 
-  'You’re not just a friend or someone I know — you’re genuinely like a big brother to me',
+  'You’re not just a friend or someone I know — you’re genuinely like a big brother to me Sabhi goats ka birthday october mein he atta hai',
 
-  "I’m really lucky to have someone like you in my life.",
+  "I’m really lucky to have someone like you in my life and Sorry stealing your photu without your consent 😝",
 
   "I hope this birthday brings you everything you deserve — happiness, success, good health, amazing memories, and obviously a lot of cake. 🎂",
   
   '',
 
-  'Happy Birthday, Ganesh baba',
+  'Happy Birthday, Ganesh baba this is how i celebrate birthdays of special ones',
 ];
 
 const PHOTO_ROTATIONS = [-3.2, 2.1, -1.8, 3.5];
