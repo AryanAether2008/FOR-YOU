@@ -125,7 +125,7 @@ export function Chapter1Welcome({ onComplete, playClickSfx }: Props) {
                 }}
                 className="handwriting text-7xl md:text-8xl text-primary mb-6"
               >
-                Swastik
+                Ayushman 
               </motion.h1>
 
               <motion.p
