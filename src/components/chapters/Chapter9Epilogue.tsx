@@ -37,27 +37,25 @@ const BOKEH = Array.from({ length: 30 }, (_, i) => ({
 const LETTER_PARAGRAPHS = [
    'One last page...',
   '',
-  "Happy Boyfriend’s Day to my favourite idiot. ❤️😭",
+  "Happy Birthday Day to my favourite big brother from another mother. ❤️",
 
-  "I know main kabhi kabhi bohot zyada overthink karti hoon, choti choti baaton pe upset ho jaati hoon aur unnecessarily drama bhi kar deti hoon 😭.",
-
-  "I’m sorry for all the times I’ve hurt you, irritated you ya tumhari patience test ki hai.",
+  "I’m really glad to have you in my life. Thank you for always putting up with my nonsense.",
 
   "But honestly, you mean a lot to me",
 
-  "Thank you for always putting up with me, samajhne ki koshish karne ke liye, and for still being here. 🫶🏻",
+  "honestly don’t know how to put into words how much you mean to me.",
 
-  "I can’t promise ki main kabhi galti nahi karungi because… well, main main hoon 💀😭 but I’ll always try to do better.",
+   '',
 
-  " I can promise that I’ll keep trying to understand you, love you better and become a better person for you.",
+  'You’re not just a friend or someone I know — you’re genuinely like a big brother to me',
 
+  "I’m really lucky to have someone like you in my life.",
+
+  "I hope this birthday brings you everything you deserve — happiness, success, good health, amazing memories, and obviously a lot of cake. 🎂",
+  
   '',
 
-  "last thing I want to say I LOVE UHH!!",
-
-  '',
-
-  'Happy Boyfriend’s Day, idiot. ❤️You’re stuck with me now, so good luck. 🫶😭',
+  'Happy Birthday, Ganesh baba',
 ];
 
 const PHOTO_ROTATIONS = [-3.2, 2.1, -1.8, 3.5];
@@ -383,7 +381,7 @@ export function Chapter9Epilogue({ fadeOutAudio, playGiftReadySfx, playTulipBloo
       </div>
 
       {/* ══════════════════════════════════════════════════════════
-          CREDITS — "Made with ❤️ by Priyanka" (appears FIRST)
+          CREDITS — "Made with ❤️ by Ayush" (appears FIRST)
           ══════════════════════════════════════════════════════════ */}
       <AnimatePresence>
         {showCredits && (
@@ -423,7 +421,7 @@ export function Chapter9Epilogue({ fadeOutAudio, playGiftReadySfx, playTulipBloo
                   '0 2px 4px rgba(0,0,0,0.5)',
               }}
             >
-              Made by Priyanka
+              Made by Ayush
             </motion.p>
 
             {/* Subtle tagline below */}
