@@ -37,25 +37,25 @@ const BOKEH = Array.from({ length: 30 }, (_, i) => ({
 const LETTER_PARAGRAPHS = [
    'One last page...',
   '',
-  "Happy Birthday Day to my favourite big brother from another mother. ❤️",
+  "Happy Birthday Day to my favourite Cousin Am I playing favourites here? sure im. ❤️",
 
   "I’m really glad to have you in my life. Thank you for always putting up with my nonsense.",
 
-  "But honestly, you mean a lot to me",
+  "But honestly, you mean a lot to me way lot more than you prolly think",
 
   "honestly don’t know how to put into words how much you mean to me.",
 
    '',
 
-  'You’re not just a friend or someone I know — you’re genuinely like a big brother to me Sabhi goats ka birthday october mein he atta hai',
+  'You’re not just a friend or someone I know — you’re genuinely like my bestfriend to me (Sabhi goats ka birthday october mein he atta hai)',
 
-  "I’m really lucky to have someone like you in my life and Sorry stealing your photu without your consent 😝",
+  "I’m really lucky to have someone like you in my life and Sorry for stealing your photu without your consent 😝",
 
   "I hope this birthday brings you everything you deserve — happiness, success, good health, amazing memories, and obviously a lot of cake. 🎂",
   
   '',
 
-  'Happy Birthday, Ganesh baba this is how i celebrate birthdays of special ones',
+  'Happy Birthday, Deepika! again this is how i celebrate birthdays for my special ones',
 ];
 
 const PHOTO_ROTATIONS = [-3.2, 2.1, -1.8, 3.5];
