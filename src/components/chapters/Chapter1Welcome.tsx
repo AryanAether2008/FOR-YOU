@@ -125,7 +125,7 @@ export function Chapter1Welcome({ onComplete, playClickSfx }: Props) {
                 }}
                 className="handwriting text-7xl md:text-8xl text-primary mb-6"
               >
-                Ayushman 
+                DEEPIKA
               </motion.h1>
 
               <motion.p
@@ -188,7 +188,7 @@ export function Chapter1Welcome({ onComplete, playClickSfx }: Props) {
                 </div>
 
                 <span className="serif text-primary/80 uppercase tracking-widest text-sm group-hover:text-primary transition-colors">
-                  Begin Your Story →😝
+                  Begin Your Story →(Sorry for late wishing)
                 </span>
               </motion.button>
             </motion.div>
