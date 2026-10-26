@@ -17,7 +17,7 @@ const SCAN_LINES = [
   'Querying Universe_A.BIRTHDAY_registry...',
   'Querying Parallel_Universe_B records...',
   'Scanning alternate timelines...',
-  'Searching for: AYUSHMAN, birthday entry...',
+  'Searching for: DEEPIKA, birthday entry...',
 ];
 
 const GLITCH_FRAMES = [
@@ -341,7 +341,7 @@ export function Chapter3Prank({ onComplete, playPrankRevealSfx }: Props) {
               style={{ fontSize: 'clamp(1.1rem, 4vw, 2rem)', fontWeight: 800 }}
             >
               <span>🎂</span>
-              <span>HAPPY BIRTHDAY DAY!! BHAIYA</span>
+              <span>HAPPY BIRTHDAY DAY!! THARKI</span>
               <span>🎉</span>
             </motion.div>
 
